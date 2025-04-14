@@ -98,11 +98,6 @@ Stores one or more contact numbers per user.
 ●	phone_number – Complete number
 Composite Primary Key: (user_id, country_code, phone_number)
 ________________________________________
-
-
-
-
-________________________________________
 ⚙️ Functionality
 ________________________________________
 📈 Conversion Rate
